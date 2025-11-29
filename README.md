@@ -43,7 +43,7 @@ Este projeto foi construído em **React Native (Expo)** e atende a todos os crit
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [Link do seu Repositório Git Aqui]
+    git clone https://github.com/RianBarbosa1/MeuDiarioDeHabitos
     cd MeuDiarioDeHabitos
     ```
 
