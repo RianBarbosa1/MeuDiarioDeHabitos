@@ -41,11 +41,11 @@ Este projeto foi construído em **React Native (Expo)** e atende a todos os crit
 
 ### Passos de Inicialização
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/RianBarbosa1/MeuDiarioDeHabitos
-    cd MeuDiarioDeHabitos
-    ```
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/RianBarbosa1/MeuDiarioDeHabitos](https://github.com/RianBarbosa1/MeuDiarioDeHabitos)
+    cd MeuDiarioDeHabitos
+    ```
 
 2.  **Instalar dependências:**
     ```bash
