@@ -1,6 +1,6 @@
 // hooks/useHabits.js
 import { useState, useEffect } from 'react';
-import { getHabits, saveHabits } from '../services/StorageService'; 
+import { getHabits, saveHabits } from '../services/StorageService';
 
 export const useHabits = () => {
   const [habits, setHabits] = useState([]);
